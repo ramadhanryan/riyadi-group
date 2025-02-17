@@ -5,6 +5,6 @@
     </head>
     <body>
         <h1>Home</h1>
-        <h3>{{ $nama }}</h3>
+        <h3>{{ $nama }} Ramadhan</h3>
     </body>
 </html>

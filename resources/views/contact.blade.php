@@ -4,7 +4,7 @@
         <title>Contact Us</title>
     </head>
     <body>
-        <h1>Halaman contact</h1>
-        <h3>{{ $nama }}</h3>
+        <h1>Halaman Contact</h1>
+        <p>082246829010</p>
     </body>
 </html>

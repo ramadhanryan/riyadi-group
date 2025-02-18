@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Gihub Tester</title>
+        <title>Halaman Depan</title>
     </head>
     <body>
-        <h1>Halaman</h1>
-        <h3>{{ $nama }}</h3>
+        <h1>Home</h1>
+        <h3>{{ $nama }} Ramadhan</h3>
     </body>
 </html>

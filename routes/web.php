@@ -9,3 +9,7 @@ Route::get('/', function () {
 Route::get('/home', function () {
     return view('/home', ['nama' => 'Ryan']);
 });
+
+Route::get('/contact', function () {
+    return view('contact');
+});
